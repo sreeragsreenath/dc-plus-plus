@@ -1,0 +1,5 @@
+tLimerickSettings = {
+	bManualControl = 0,
+	iDelay = 93,
+	bSendToAll = 0,
+}

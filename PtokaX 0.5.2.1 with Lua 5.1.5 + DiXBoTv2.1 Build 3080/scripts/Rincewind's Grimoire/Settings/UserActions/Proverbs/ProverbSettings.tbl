@@ -1,0 +1,5 @@
+tProverbSettings = {
+	bManualControl = 0,
+	iDelay = 73,
+	bSendToAll = 0,
+}

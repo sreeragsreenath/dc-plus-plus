@@ -1,0 +1,14 @@
+CHANGES - 5.0.0
+----------------------
+•	near total rewrite of script and GUI
+•	added option to play Anagrams in PM
+•	added option to play CodeBreaker in PM
+•	added option to play GuessTheNumber in PM
+•	added option to play Hangman in PM
+•	added option to play Trivia in PM
+•	added option to play RussianRoulette in PM
+•	added option to play SlotMachine in PM
+•	added ascii intro [requested by Undertaker]
+•	removed TicTacToe
+•	removed HubEmail
+•	added option to trivia to only show first hint [requested by Skelletona]

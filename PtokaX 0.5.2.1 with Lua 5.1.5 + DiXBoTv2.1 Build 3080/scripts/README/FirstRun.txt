@@ -1,0 +1,20 @@
+
+-----------------------------------------------------------------
+Thank you for choosing DiXBoT as your MainBot!
+-----------------------------------------------------------------
+
+To help you get started, please have a look at the DiXBoT Guides found here:
+
+http://www.dixbot.com
+
+
+If you have questions and/or suggestions, please use the DiXBoT Forum or the DiXBoT DemoHub.
+
+Forum	: http://www.dixbot.com/forums/
+Demohub : dchub://demo.dixbot.com:1209
+
+
+Thanks,
+
+Snooze
+Creator of DiXBoT

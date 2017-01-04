@@ -1,0 +1,18 @@
+tProfileRuleSettings = {
+	iCheckDelay = 5,
+	bEnableRedirectLog = 1,
+	tEnabledGetProfiles = {
+		[-1] = 0,
+		[0] = 1,
+		[1] = 1,
+		[2] = 0,
+		[3] = 0,
+	},
+	tEnabledSetProfiles = {
+		[-1] = 0,
+		[0] = 1,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+}

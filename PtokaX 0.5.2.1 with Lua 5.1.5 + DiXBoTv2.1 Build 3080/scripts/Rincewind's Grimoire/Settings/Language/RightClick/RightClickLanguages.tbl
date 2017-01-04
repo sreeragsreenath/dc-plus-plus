@@ -1,0 +1,4 @@
+tRightClickLanguages = {
+	["Current"] = "DEFAULT",
+	[1] = "GERMAN",
+}

@@ -1,0 +1,13 @@
+tCodeBreakerScores = {
+[1] = {"AGUS-6",250},
+[2] = {"AUGUSTUS-6",230},
+[3] = {"luffypi",178},
+[4] = {"Ayan",143},
+[5] = {"NoGameNoLife",143},
+[6] = {"NITW",135},
+[7] = {"JamesBond",52},
+[8] = {"Samurai_Ranger",46},
+[9] = {"edookati",28},
+[10] = {"SeRiAL_KiLLeR",18},
+n=10
+};

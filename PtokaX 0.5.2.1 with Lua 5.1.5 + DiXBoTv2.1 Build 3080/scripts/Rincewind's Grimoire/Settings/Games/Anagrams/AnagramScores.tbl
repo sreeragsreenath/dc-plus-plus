@@ -1,0 +1,11 @@
+tAnagramScores = {
+[1] = {"AbuSomani",206},
+[2] = {"BrownCow",169},
+[3] = {"HH",135},
+[4] = {"AM63",121},
+[5] = {"LP",47},
+[6] = {"SeRiAL_KiLLeR",28},
+[7] = {"NoGameNoLife",10},
+[8] = {"MaxX_WayNe",10},
+n=8
+};

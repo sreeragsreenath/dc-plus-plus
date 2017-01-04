@@ -1,0 +1,42 @@
+tKickerLog = {
+	["•SecurityBot•"] = {
+		["iBan"] = 11,
+		["iWarn"] = 0,
+		["iTotal"] = 4407,
+		["iDisconnect"] = 0,
+		["iTimeBan"] = 4391,
+		["iKick"] = 2,
+	},
+	["•No-clones•"] = {
+		["iBan"] = 0,
+		["iWarn"] = 0,
+		["iTotal"] = 442,
+		["iDisconnect"] = 0,
+		["iTimeBan"] = 442,
+		["iKick"] = 0,
+	},
+	["Death™"] = {
+		["iBan"] = 1,
+		["iWarn"] = 1,
+		["iTotal"] = 5,
+		["iDisconnect"] = 0,
+		["iTimeBan"] = 3,
+		["iKick"] = 0,
+	},
+	["•Security•"] = {
+		["iBan"] = 0,
+		["iWarn"] = 0,
+		["iTotal"] = 3,
+		["iDisconnect"] = 0,
+		["iTimeBan"] = 3,
+		["iKick"] = 0,
+	},
+	["rr"] = {
+		["iBan"] = 0,
+		["iWarn"] = 0,
+		["iTotal"] = 1,
+		["iDisconnect"] = 0,
+		["iTimeBan"] = 0,
+		["iKick"] = 0,
+	},
+}

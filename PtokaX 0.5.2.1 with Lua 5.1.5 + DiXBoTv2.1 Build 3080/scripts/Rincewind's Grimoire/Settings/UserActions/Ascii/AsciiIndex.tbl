@@ -1,0 +1,234 @@
+tAsciiIndex = {
+	[1] = {
+		sFilename = "wyvern",
+		sDisplayName = "Wyvern",
+		sMenu = "Ascii Art",
+	},
+	[2] = {
+		sFilename = "hub",
+		sDisplayName = "Hub Details",
+		sMenu = "Hub Info",
+	},
+	[3] = {
+		sFilename = "network",
+		sDisplayName = "Network Details",
+		sMenu = "Hub Info",
+	},
+	[4] = {
+		sFilename = "commands",
+		sDisplayName = "Commands",
+		sMenu = "Information",
+	},
+	[5] = {
+		sFilename = "hubemail",
+		sDisplayName = "Hub Email",
+		sMenu = "Information",
+	},
+	[6] = {
+		sFilename = "spellsofchanging",
+		sDisplayName = "Spells Of Changing",
+		sMenu = "Information",
+	},
+	[7] = {
+		sFilename = "spellsofchangingnick",
+		sDisplayName = "Spells Of Nick Changing",
+		sMenu = "Information",
+	},
+	[8] = {
+		sFilename = "anagram",
+		sDisplayName = "Anagrams",
+		sMenu = "Information",
+	},
+	[9] = {
+		sFilename = "trivia",
+		sDisplayName = "Trivia",
+		sMenu = "Information",
+	},
+	[10] = {
+		sFilename = "numbers",
+		sDisplayName = "Numbers",
+		sMenu = "Information",
+	},
+	[11] = {
+		sFilename = "slotmachine",
+		sDisplayName = "Slot Machine",
+		sMenu = "Information",
+	},
+	[12] = {
+		sFilename = "3cardmonty",
+		sDisplayName = "Three Card Monty",
+		sMenu = "Information",
+	},
+	[13] = {
+		sFilename = "roulette",
+		sDisplayName = "Russian Roulette",
+		sMenu = "Information",
+	},
+	[14] = {
+		sFilename = "alien",
+		sDisplayName = "Alien",
+		sMenu = "Ascii Art",
+	},
+	[15] = {
+		sFilename = "badnight",
+		sDisplayName = "Did I have a bad night?",
+		sMenu = "Ascii Art",
+	},
+	[16] = {
+		sFilename = "beavis",
+		sDisplayName = "Beavis",
+		sMenu = "Ascii Art",
+	},
+	[17] = {
+		sFilename = "bed",
+		sDisplayName = "Bed Time",
+		sMenu = "Ascii Art",
+	},
+	[18] = {
+		sFilename = "beer",
+		sDisplayName = "Cold Beer?",
+		sMenu = "Ascii Art",
+	},
+	[19] = {
+		sFilename = "cat",
+		sDisplayName = "Cat",
+		sMenu = "Ascii Art",
+	},
+	[20] = {
+		sFilename = "cobra",
+		sDisplayName = "Cobra",
+		sMenu = "Ascii Art",
+	},
+	[21] = {
+		sFilename = "smoking",
+		sDisplayName = "Smoking",
+		sMenu = "Ascii Art",
+	},
+	[22] = {
+		sFilename = "cookie",
+		sDisplayName = "Cookie Monster",
+		sMenu = "Ascii Art",
+	},
+	[23] = {
+		sFilename = "copper",
+		sDisplayName = "Copper",
+		sMenu = "Ascii Art",
+	},
+	[24] = {
+		sFilename = "death",
+		sDisplayName = "Grim Reaper",
+		sMenu = "Ascii Art",
+	},
+	[25] = {
+		sFilename = "dog",
+		sDisplayName = "Dog",
+		sMenu = "Ascii Art",
+	},
+	[26] = {
+		sFilename = "dragon",
+		sDisplayName = "Dragon",
+		sMenu = "Ascii Art",
+	},
+	[27] = {
+		sFilename = "garfield",
+		sDisplayName = "Garfield",
+		sMenu = "Ascii Art",
+	},
+	[28] = {
+		sFilename = "odie",
+		sDisplayName = "Odie",
+		sMenu = "Ascii Art",
+	},
+	[29] = {
+		sFilename = "goofy",
+		sDisplayName = "Goofy",
+		sMenu = "Ascii Art",
+	},
+	[30] = {
+		sFilename = "ghost",
+		sDisplayName = "Ghost",
+		sMenu = "Ascii Art",
+	},
+	[31] = {
+		sFilename = "heart",
+		sDisplayName = "Heart",
+		sMenu = "Ascii Art",
+	},
+	[32] = {
+		sFilename = "Homer",
+		sDisplayName = "Homer Simpson",
+		sMenu = "Ascii Art",
+	},
+	[33] = {
+		sFilename = "magnum",
+		sDisplayName = "Magnum",
+		sMenu = "Ascii Art",
+	},
+	[34] = {
+		sFilename = "monkey",
+		sDisplayName = "Monkey",
+		sMenu = "Ascii Art",
+	},
+	[35] = {
+		sFilename = "mushroom",
+		sDisplayName = "Mushroom",
+		sMenu = "Ascii Art",
+	},
+	[36] = {
+		sFilename = "pinkpanther",
+		sDisplayName = "Pink Panther",
+		sMenu = "Ascii Art",
+	},
+	[37] = {
+		sFilename = "rabbit",
+		sDisplayName = "Rabbit",
+		sMenu = "Ascii Art",
+	},
+	[38] = {
+		sFilename = "reindeer",
+		sDisplayName = "Reindeer",
+		sMenu = "Ascii Art",
+	},
+	[39] = {
+		sFilename = "silly ass",
+		sDisplayName = "Silly Ass",
+		sMenu = "Ascii Art",
+	},
+	[40] = {
+		sFilename = "sitting",
+		sDisplayName = "Sitting",
+		sMenu = "Ascii Art",
+	},
+	[41] = {
+		sFilename = "smalldragon",
+		sDisplayName = "Small Dragon",
+		sMenu = "Ascii Art",
+	},
+	[42] = {
+		sFilename = "spank",
+		sDisplayName = "Spanking",
+		sMenu = "Ascii Art",
+	},
+	[43] = {
+		sFilename = "tank",
+		sDisplayName = "Tank",
+		sMenu = "Ascii Art",
+	},
+	[44] = {
+		sFilename = "tigger",
+		sDisplayName = "Tigger",
+		sMenu = "Ascii Art",
+	},
+	[45] = {
+		sFilename = "toilet",
+		sDisplayName = "Toilet",
+		sMenu = "Ascii Art",
+	},
+	[46] = {
+		sFilename = "wizard",
+		sDisplayName = "Wizard",
+		sMenu = "Ascii Art",
+	},
+	
+
+}

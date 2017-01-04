@@ -1,0 +1,36 @@
+tChatRoomSettings = {
+	tAnnounce = {
+		bDeleted = 1,
+		bSuspended = 1,
+	},
+	tEnabledProfiles = {
+		[0] = 0,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+	tEnabledProfilesCreate = {
+		[0] = 0,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+	tEnabledProfilesDelete = {
+		[0] = 0,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+	tEnabledProfilesSuspend = {
+		[0] = 0,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+	tEnabledProfilesMembers = {
+		[0] = 0,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+}

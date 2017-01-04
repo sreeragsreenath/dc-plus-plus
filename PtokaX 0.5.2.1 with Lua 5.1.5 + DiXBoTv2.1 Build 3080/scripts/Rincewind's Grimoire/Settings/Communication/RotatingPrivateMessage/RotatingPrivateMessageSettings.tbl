@@ -1,0 +1,25 @@
+tRotatingPrivateMessageSettings = {
+	bRandomise = 1,
+	iDelay = 120,
+	tEnabledProfiles = {
+		[-1] = 1,
+		[0] = 0,
+		[1] = 0,
+		[2] = 1,
+		[3] = 1,
+	},
+	tEnabledAdProfiles = {
+		[-1] = 0,
+		[0] = 1,
+		[1] = 1,
+		[2] = 0,
+		[3] = 0,
+	},
+	tEnabledMaintainProfiles = {
+		[-1] = 0,
+		[0] = 1,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+}

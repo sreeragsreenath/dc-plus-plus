@@ -1,0 +1,12 @@
+tAntiAdvertiseBlockedActions = {
+	bMain = 1,
+	bPM = 1,
+	bNick = 1,
+	bDescription = 1,
+	bAnagrams = 1,
+	bCodeBreaker = 1,
+	bGuessTheNumber = 1,
+	bHangman = 1,
+	bNumbers = 1,
+	bTrivia = 1,
+}

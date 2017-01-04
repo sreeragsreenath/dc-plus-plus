@@ -1,0 +1,1 @@
+"C:\MyHub\scripts\DiXBoT\tools\7za.exe" x -y "C:\MyHub\scripts\DiXBoT\tmp\ip-to-country.csv.zip" -o"C:/MyHub/cfg/"

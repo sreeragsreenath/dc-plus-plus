@@ -1,0 +1,18 @@
+tWelcomeInfoSettings = {
+	bShowOps = 0,
+	bOnlyOnline = 0,
+	sNetworkFounder = "",
+	sNetworkName = "",
+	sNetworkFounded = "",
+	sHubOwner = "",
+	sHubEmail = "",
+	sHublistAddress = "",
+	sWebSite = "",
+	tEnabledProfiles = {
+		[-1] = 1,
+		[0] = 1,
+		[1] = 1,
+		[2] = 1,
+		[3] = 1,
+	},
+}

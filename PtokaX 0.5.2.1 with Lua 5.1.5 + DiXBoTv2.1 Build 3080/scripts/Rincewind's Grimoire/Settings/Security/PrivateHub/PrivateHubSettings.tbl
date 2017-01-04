@@ -1,0 +1,44 @@
+tPrivateHubSettings = {
+	sRedirectAddress = "",
+	tRestrictPMs = {
+		iPreventPMTime = 5,
+		bRegBeforePM = 1,
+	},
+	tDisabled = {
+		tProfiles = {
+			[-1] = 0,
+			[0] = 0,
+			[1] = 0,
+			[2] = 0,
+			[3] = 0,
+		},
+		tMain = {
+			[-1] = 0,
+			[0] = 0,
+			[1] = 0,
+			[2] = 0,
+			[3] = 0,
+		},
+		tPMs = {
+			[-1] = 1,
+			[0] = 0,
+			[1] = 0,
+			[2] = 0,
+			[3] = 0,
+		},
+		tDownloads = {
+			[-1] = 0,
+			[0] = 0,
+			[1] = 0,
+			[2] = 0,
+			[3] = 0,
+		},
+		tSearches = {
+			[-1] = 0,
+			[0] = 0,
+			[1] = 0,
+			[2] = 0,
+			[3] = 0,
+		},
+	},
+}

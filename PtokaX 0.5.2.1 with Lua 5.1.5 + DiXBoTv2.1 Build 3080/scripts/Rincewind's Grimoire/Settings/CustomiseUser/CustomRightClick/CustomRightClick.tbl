@@ -1,0 +1,15 @@
+tCustomRightClick = {
+	iCommands = 2,
+	[1] = {
+			bEnabled = 0,
+			iWhere = 3,
+			sProfile = "ops",
+			sRightClick = "Operator Quick Pick\\Show User Info $<%[mynick]> +showinfo %[nick]",
+	},
+	[2] = {
+			bEnabled = 1,
+			iWhere = 2,
+			sProfile = 0,
+			sRightClick = "Operator Quick Pick\\Show User Info $<%[mynick]> +showinfo %[line:nick]",
+	},
+}

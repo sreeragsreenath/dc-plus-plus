@@ -1,0 +1,11 @@
+return {
+-- Table: {1}
+{
+   ["Softwares"]="Softwares",
+   ["videos"]="WWE,Cricket,Soccer",
+   ["music"]="Music",
+   ["games"]="Games",
+   ["movie"]="Movies",
+   ["sitcomz"]="TV Series",
+},
+}

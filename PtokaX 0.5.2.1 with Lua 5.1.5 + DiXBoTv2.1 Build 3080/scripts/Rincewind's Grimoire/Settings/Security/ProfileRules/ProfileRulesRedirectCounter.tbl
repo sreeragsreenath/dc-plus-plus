@@ -1,0 +1,8 @@
+tProfileRulesRedirectCounter = {
+	iMinShare = 0,
+	iMaxShare = 0,
+	iMinSlots = 0,
+	iMaxSlots = 0,
+	iMaxHubs = 0,
+	iHubSlotRatio = 0,
+}

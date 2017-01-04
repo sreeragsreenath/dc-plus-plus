@@ -1,0 +1,4 @@
+tProfileRulesExemptUsers = {
+	["jo"] = 1,
+	["rincewind"] = 1,
+}

@@ -1,0 +1,24 @@
+
+
+		»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«
+		»«				Welcome to #HUBNAME#
+		»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«
+		»«	
+		»«	Nick			:	#USERNAME#
+		»«	IP			 :	#USERIP#
+		»«	Share Size		:	#USERSHARE#
+		»«	Profile			:	Master
+		»«	Description		:	#HUBDESC#
+		»«	Connection		:	#USERHUBS#
+		»«	Client			:	#USERCLIENT#
+		»«	Total Hubs		:	#USERHUBS#
+		»«	Open Slots		:	#USERSLOTS#
+		»«	
+		»«	Hub Name		:	#HUBNAME#
+		»«	Hub Address		:	172.30.101.101;#HUBPORT#
+		»«	Hub Date & Time	                   :	#HUBTIME#
+		»«	Hub Share		:	#HUBSHARE#
+		»«	
+		»«	There are now: #USERCOUNT# of the #USERPEAK# users online after #HUBUPTIME#
+		»«	
+		»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«

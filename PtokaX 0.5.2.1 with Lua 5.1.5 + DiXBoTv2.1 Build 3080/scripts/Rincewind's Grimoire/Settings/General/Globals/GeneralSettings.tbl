@@ -1,0 +1,8 @@
+tGeneralSettings = {
+	bAllowAllPrefixes = 1,
+	sPrefix = "+",
+	sRightClickName = "",
+	sBorder = "»«",
+	bFlatRC = 1,
+	bUnregRCEnable = 1,
+}

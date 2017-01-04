@@ -1,0 +1,3 @@
+tAnagramScore = {
+	["Snooze"] = 1,
+}

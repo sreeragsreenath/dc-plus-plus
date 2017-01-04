@@ -1,0 +1,10 @@
+tThreeCardMontySettings = {
+	bPlayInMain = 1,
+	iWager = 1,
+	iMarker = 25,
+	tDeal = {
+		"Ace Of Spades",
+		"Queen Of Hearts",
+		"Ace Of Clubs",
+	},
+}

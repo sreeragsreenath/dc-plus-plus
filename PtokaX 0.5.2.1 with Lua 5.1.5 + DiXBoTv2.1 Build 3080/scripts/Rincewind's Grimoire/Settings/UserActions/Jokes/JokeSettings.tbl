@@ -1,0 +1,5 @@
+tJokeSettings = {
+	bManualControl = 0,
+	iDelay = 103,
+	bSendToAll = 0,
+}

@@ -1,0 +1,11 @@
+tRotatingPrivateMessageFiles = {
+		"hub",
+		"network",
+		"commands",
+		"spellsofchanging",
+		"anagram",
+		"trivia",
+		"slotmachine",
+		"3cardmonty",
+		"roulette",
+}

@@ -1,0 +1,10 @@
+tAutoCorrectFilters = {
+	bMain = 1,
+	bPM = 1,
+	bAnagrams = 0,
+	bCodeBreaker = 1,
+	bGuessTheNumber = 1,
+	bHangman = 1,
+	bNumbers = 1,
+	bTrivia = 0,
+}

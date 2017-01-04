@@ -1,0 +1,13 @@
+tClockSettings = {
+	iDelay = 60,
+	bManualControl = 0,
+	sDaylightSaving = "BST",
+	sStandardTime = "IST",
+	tEnabledProfiles = {
+		[-1] = 0,
+		[0] = 1,
+		[1] = 1,
+		[2] = 1,
+		[3] = 1,
+	},
+}

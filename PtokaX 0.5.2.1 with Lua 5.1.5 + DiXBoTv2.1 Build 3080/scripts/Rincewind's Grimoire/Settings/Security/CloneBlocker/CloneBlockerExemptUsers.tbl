@@ -1,0 +1,5 @@
+tCloneBlockerExemptUsers = {
+	["bravd"] = 1,
+	["madhamish"] = 1,
+	["rincewind"] = 1,
+}

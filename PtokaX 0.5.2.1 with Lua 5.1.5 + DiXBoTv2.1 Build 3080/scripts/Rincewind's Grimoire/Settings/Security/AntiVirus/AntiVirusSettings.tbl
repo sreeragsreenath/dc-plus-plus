@@ -1,0 +1,4 @@
+tAntiVirusSettings = {
+	sAction = "T",
+	iTempBanTime = 60,
+}

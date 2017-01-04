@@ -1,0 +1,6 @@
+tRegistrationSettings = {
+	bAllowRegme = 1,
+	bKeepLog = 1,
+	sPrefix = "",
+	iRegProfiles = 3,
+}

@@ -1,0 +1,24 @@
+tSlotMachineSettings = {
+	bInMain = 1,
+	iCredit = 50,
+	iCreditPlay = 2,
+	iCreditLoan = 1000,
+	tResults = {
+		["Bar"] = 100,
+		["7"] = 50,
+		["@"] = 20,
+		["$"] = 10,
+		["£"] = 5,
+		["§"] = 3,
+		["&"] = 1,
+	},
+	tAux = {
+		100,
+		50,
+		20,
+		10,
+		5,
+		3,
+		1,
+	},
+}

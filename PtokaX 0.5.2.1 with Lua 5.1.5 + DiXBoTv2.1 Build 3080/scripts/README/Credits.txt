@@ -1,0 +1,68 @@
+
+-----------------------------------------------------------------
+Thank you for choosing DiXBoT as your MainBot!
+-----------------------------------------------------------------
+
+To help you get started, please have a look at the DiXBoT Guides found on the DiXBoT website @ http://www.dixbot.com
+Should you have questions/suggestions, please use the DiXBoT Forum @ http://www.dixbot.com/forums/ or the DiXBoT Demohub @ dchub://demo.dixbot.com:1209 :)
+
+Thanks,
+Snooze
+Creator of DiXBoT
+
+
+
+INFO:
+------------------------------------
+DiXBoT is currently the largest All-In-One (AIO) Bot for the PtokaX Hubsoft (www.ptokax.org) with more than 300 commands and more than 25 modules to choose from.
+DiXBoT is modular based, making it easy for you to adjust it to your needs, that being performance or features..
+
+DiXBoT is has been tested for performance, making it capable of hosting 4000+ users while having all features enabled.
+
+Server:
+2GHZ CPU (DualCore)
+3GB RAM
+CPU usage with 4000 users below 15%.
+
+
+
+Credits:
+-------------------------------------
+This script would not have been possible without the following:
+
+The PtokaX Portal @ http://board.ptokax.ath.cx/
+
+Special thanks goes to:
+------------------------------------
+nErBoS (Helped me getting started coding Lua)
+Plop
+Mutor
+
+Thanks to the DiXBoT Beta Team for their endless effort in finding/checking/fixing bugs!
+------------------------------------
+[fow]cccl-nl
+BigHawk
+Cenobyte
+Dizzy
+Psycho_Chihuahua
+SkyNet
+Sneaky
+HK
+Dominos
+KaZa
+Morf
+Giorgos
+BrotherBear
+
+
+----------------------------------------------------------------------
+Huge Thanks goes to GMC for hosting DiXBoT Testing hubs for years now :D
+----------------------------------------------------------------------
+Testhub: testhub.dixbot.com:1209
+
+
+
+
+
+
+

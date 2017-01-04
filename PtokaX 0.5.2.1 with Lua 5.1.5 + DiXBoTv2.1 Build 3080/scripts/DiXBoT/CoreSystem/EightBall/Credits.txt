@@ -1,0 +1,7 @@
+Magic Eight-ball credits
+---------------------------------------------------------------------------------
+This game is a conversion of the original game created by bonki.
+The original script can be found here: http://board.ptokax.ath.cx/index.php?topic=4383.0
+
+
+/Snooze

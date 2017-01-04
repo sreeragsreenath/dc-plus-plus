@@ -1,0 +1,5 @@
+tQuotationSettings = {
+	bManualControl = 0,
+	iDelay = 89,
+	bSendToAll = 0,
+}

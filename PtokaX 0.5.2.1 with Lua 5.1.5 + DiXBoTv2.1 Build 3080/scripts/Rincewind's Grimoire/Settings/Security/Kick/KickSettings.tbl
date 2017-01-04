@@ -1,0 +1,12 @@
+tKickSettings = {
+	bAnnounceNextArrival = 1,
+	bCleanerActive = 0,
+	bAsciiToMain = 0,
+	iWarnsMakeKick = 2,
+	iKicksMakeBan = 3,
+	iTimeBansMakeBan = 3,
+	iKickBanTime = 10,
+	iCleanOlderThan = 30,
+	iCleanerTime = 2355,
+	iTopKickers = 10,
+}

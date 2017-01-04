@@ -1,0 +1,11 @@
+tSpellSettings = {
+	iDelay = 2,
+	bEnableWards = 1,
+	tEnabledProfiles = {
+		[-1] = 0,
+		[0] = 0,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+}

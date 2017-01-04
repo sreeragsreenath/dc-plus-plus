@@ -1,0 +1,14 @@
+tDescriptionTags = {
+	["death™"] = {
+		["sMyINFO"] = "$MyINFO $ALL Death™ <ApexDC++ V:1.5.8,M:A,H:1/1/0,S:10>$ $1000$$196388881878$|",
+		["sTag"] = "Master",
+	},
+	["rincewind"] = {
+		["sMyINFO"] = "$MyINFO $ALL Rincewind The Great Wizzard<DCDM 0.048><++ V:0.401,M:A,H:0/1/4,S:2,R:1>$ $DSL$$11448893056$|",
+		["sTag"] = "!!!!TheGreatWizzard!!!!",
+	},
+	["rijju"] = {
+		["sMyINFO"] = "$MyINFO $ALL rijju <ApexDC++ V:1.5.7,M:A,H:0/1/1,S:6>$ $1000$$288355373074$|",
+		["sTag"] = "Op",
+	},
+}

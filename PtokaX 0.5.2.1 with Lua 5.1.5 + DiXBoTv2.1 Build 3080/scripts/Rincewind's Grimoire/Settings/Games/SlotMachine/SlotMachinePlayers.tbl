@@ -1,0 +1,54 @@
+tSlotMachinePlayers = {
+	["kite"] = {
+		["Credit"] = 50,
+		["Loan"] = 0,
+	},
+	["Cedric"] = {
+		["Credit"] = 50,
+		["Loan"] = 0,
+	},
+	["AGUS-6"] = {
+		["Credit"] = 98,
+		["Loan"] = 50,
+	},
+	["Rincewind"] = {
+		["Credit"] = 90,
+		["Loan"] = 50,
+	},
+	["edookati"] = {
+		["Credit"] = 50,
+		["Loan"] = 0,
+	},
+	["sheamusme"] = {
+		["Credit"] = 48,
+		["Loan"] = 0,
+	},
+	["LuCieFer"] = {
+		["Credit"] = 44,
+		["Loan"] = 0,
+	},
+	["minato123"] = {
+		["Credit"] = 92,
+		["Loan"] = 50,
+	},
+	["ammavan"] = {
+		["Credit"] = 50,
+		["Loan"] = 0,
+	},
+	["Death™"] = {
+		["Credit"] = 50,
+		["Loan"] = 0,
+	},
+	["RANJU"] = {
+		["Credit"] = 48,
+		["Loan"] = 0,
+	},
+	["rr"] = {
+		["Credit"] = 48,
+		["Loan"] = 0,
+	},
+	["mahtuog"] = {
+		["Credit"] = 50,
+		["Loan"] = 0,
+	},
+}

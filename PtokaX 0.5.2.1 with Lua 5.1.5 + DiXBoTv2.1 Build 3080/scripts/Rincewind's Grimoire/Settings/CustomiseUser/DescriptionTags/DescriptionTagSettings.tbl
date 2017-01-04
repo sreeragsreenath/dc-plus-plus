@@ -1,0 +1,17 @@
+tDescriptionTagSettings = {
+	bNotifyOps = 1,
+	tProfiles = {
+		[-1] = "Unregistered",
+		[0] = "[Master]",
+		[1] = "[Op]",
+		[2] = "[VIP]",
+		[3] = "[Reg]",
+	},
+	tEnabledProfiles = {
+		[-1] = 0,
+		[0] = 1,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+}

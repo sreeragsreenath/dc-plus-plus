@@ -1,0 +1,3 @@
+tMsgs = {
+	["MsgBoarder"] = 0,
+}

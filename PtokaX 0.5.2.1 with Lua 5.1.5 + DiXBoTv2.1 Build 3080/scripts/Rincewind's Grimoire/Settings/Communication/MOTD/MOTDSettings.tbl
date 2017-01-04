@@ -1,0 +1,28 @@
+tMOTDSettings = {
+	tAll = {
+		bUse = 0,
+		bInMain = 0,
+	},
+	tByProfile = {
+		[-1] = {
+			bUse = 1,
+			bInMain = 1,
+		},
+		[0] = {
+			bUse = 0,
+			bInMain = 0,
+		},
+		[1] = {
+			bUse = 0,
+			bInMain = 0,
+		},
+		[2] = {
+			bUse = 1,
+			bInMain = 1,
+		},
+		[3] = {
+			bUse = 1,
+			bInMain = 1,
+		},
+	},
+}

@@ -1,0 +1,11 @@
+tRotatingMainMessageSettings = {
+	bRandomise = 1,
+	iDelay = 120,
+	tEnabledAdProfiles = {
+		[-1] = 0,
+		[0] = 0,
+		[1] = 0,
+		[2] = 0,
+		[3] = 0,
+	},
+}
